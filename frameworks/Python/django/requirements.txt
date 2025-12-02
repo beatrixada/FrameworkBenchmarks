@@ -1,6 +1,6 @@
-Django==3.1.12
+Django==4.2.26
 greenlet==0.4.17
-gunicorn==20.0.4
+gunicorn==22.0.0
 meinheld==1.0.2
 mysqlclient==1.4.6
 psycopg2==2.8.6
